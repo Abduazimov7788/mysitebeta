@@ -188,8 +188,8 @@ body {
   transform: translate(-50%, -50%);
   display: flex;
   flex-wrap: wrap;
-  margin: 30px;
-  padding: 0;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
 }
 
 .footer li {
