@@ -8,15 +8,15 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Inconsolata', monospace;
-    width: 973px;
-    height: 1490px;
+    width: 976px;
+    height: 1530px;
     background-color: #ccc;
     border: 2px solid #000;
 }
 
 .navbar {
     display: flex;
-    width: 973px;
+    width: 976px;
     height: 60px;
     flex-direction: row;
     background-color: whitesmoke;
