@@ -51,7 +51,7 @@
   }
   
   .nav {
-    margin-left: 530px;
+    margin-left: 510px;
     margin-top: 45px;
   }
   
@@ -70,7 +70,7 @@
   
   .dropdown {
     position: absolute;
-    width: 100px;
+    width: 150px;
   }
   
   a {
