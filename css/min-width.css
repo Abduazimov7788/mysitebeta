@@ -8,7 +8,7 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Inconsolata', monospace;
-    width: 767px;
+    width: 797px;
     height: 1440px;
     background-color: #ccc;
     border: 2px solid #000;
@@ -16,7 +16,7 @@
 
 .navbar {
     display: flex;
-    width: 767px;
+    width: 797px;
     height: 60px;
     flex-direction: row;
     background-color: whitesmoke;
@@ -52,7 +52,7 @@
   }
   
   .nav {
-    margin-left: 490px;
+    margin-left: 500px;
     margin-top: 17px;
   }
   
