@@ -11,13 +11,12 @@
     width: 975px;
     height: 1520px;
     background-color: #ccc;
-    border: 2px solid #000;
 }
 
 .navbar {
     display: flex;
     width: 975px;
-    height: 60px;
+    height:120px;
     flex-direction: row;
     background-color: whitesmoke;
 
@@ -33,16 +32,16 @@
 }
 
 .logo-img {
-    width: 30px;
-    height: 30px;
+    width: 80px;
+    height: 80px;
 }
 
 .logo-img>img {
     /* display: inline-flex; */
-    width: 80px;
-    height: 40px;
-    padding-left: 10px;
-    padding-top: 10px;
+    width: 120px;
+    height: 80px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
 
 
@@ -52,7 +51,7 @@
   }
   
   .nav {
-    margin-left: 500px;
+    margin-left: 800px;
     margin-top: 17px;
   }
   
