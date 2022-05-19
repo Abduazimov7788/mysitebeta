@@ -8,14 +8,14 @@
     margin-left: auto;
     margin-right: auto;
     font-family: 'Inconsolata', monospace;
-    width: 760px;
-    height: 1440px;
+    width: 1440px;
+    height: 2560px;
     background-color: #ccc;
 }
 
 .navbar {
     display: flex;
-    width: 760px;
+    width: 1440px;
     height: 60px;
     flex-direction: row;
     background-color: whitesmoke;
