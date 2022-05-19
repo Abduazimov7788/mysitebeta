@@ -203,6 +203,7 @@ body {
   line-height: 80px;
   transition: .5s;
   padding-right: 14px;
+  padding-top: 30px;
 }
 
 .link span {
